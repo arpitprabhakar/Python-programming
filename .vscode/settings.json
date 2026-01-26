@@ -1,3 +1,4 @@
 {
-    "markdown.validate.enabled": true
+    "markdown.validate.enabled": true,
+    "C_Cpp.default.compilerPath": "C:/MinGW/bin/gcc.exe"
 }
