@@ -13,3 +13,7 @@ It is mainly created for learning, revision, and reference purposes.
 3. Run Python files using:
 
 >python filename.py
+
+# 📚 Learning Status
+
+This repository will be updated regularly as I learn new Python concepts.
