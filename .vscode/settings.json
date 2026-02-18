@@ -1,4 +1,13 @@
 {
     "markdown.validate.enabled": true,
-    "C_Cpp.default.compilerPath": "C:/MinGW/bin/gcc.exe"
+    "C_Cpp.default.compilerPath": "C:/MinGW/bin/gcc.exe",
+    "sqltools.connections": [
+        {
+            "maxRows": 500,
+            "previewLimit": 50,
+            "driver": "DynamoDB Driver",
+            "name": "apm",
+            "region": "AWS Asia-Pacific (Hyderabad) Region"
+        }
+    ]
 }
